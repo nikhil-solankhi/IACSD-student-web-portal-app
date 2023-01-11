@@ -36,6 +36,8 @@ const StudentRegistration = () => {
     
     return (
         <div className="Registration">
+            <h3>Registration Window</h3>
+            <br></br>
             <form>
 
                 <div>

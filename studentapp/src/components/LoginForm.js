@@ -30,6 +30,8 @@ const LoginForm = () => {
 
     return (
         <div className="loginContainer">
+            <h3>Login Window</h3>
+            <br></br>
             <form>
                 <div>
                     <label>Username</label>
